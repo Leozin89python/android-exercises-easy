@@ -1,0 +1,2 @@
+rootProject.name='Bahia Norte 1.5.5'
+include ':app'

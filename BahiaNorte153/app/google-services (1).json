@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553480767890",
+    "firebase_url": "https://bahia-norte-1-5-4.firebaseio.com",
+    "project_id": "bahia-norte-1-5-4",
+    "storage_bucket": "bahia-norte-1-5-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553480767890:android:9a1414bc3ae13d60c3594b",
+        "android_client_info": {
+          "package_name": "com.example.bahianorte153"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553480767890-l822tr4fj4thajb6i4b96lqsaj8f9opm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bahianorte153",
+            "certificate_hash": "e5d71e04d9cc1ea3a5944a89325dd26143b1a922"
+          }
+        },
+        {
+          "client_id": "553480767890-cbu6n9cedbvfss2aptk0ahvvpcg62l63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxf86J3Sxo_9cs9q6_id1MJz6-8tl1UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553480767890-cbu6n9cedbvfss2aptk0ahvvpcg62l63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
